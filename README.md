@@ -14,4 +14,6 @@ Data Visulaization : Power BI.
 
 Data cleaning : Excel, Power query
 
-# Dashboard Screenshot
+# Dashboard Pdf and Screenshot
+[adidas Tarun.pdf](https://github.com/Tarunkumar799/Adidas-Sales-dashboard/files/13681848/adidas.Tarun.pdf)
+![adidas screenshot](https://github.com/Tarunkumar799/Adidas-Sales-dashboard/assets/134605831/10ff964b-1153-465a-a3e1-a7a373dd5cfb)
